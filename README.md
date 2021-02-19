@@ -1,10 +1,9 @@
-Welcome to the Playground Functions Project repository!
-Mandatory Requirements:
+## Welcome to the Playground Functions Project repository!<br><br>
+Mandatory Requirements:<br>
 1 - Using the operator &&
-Create a function called compareTrue that, when receiving two booleans
-
-Return true if both values are true;
-Return false if one or both parameters are false.
+Create a function called compareTrue that, when receiving two boolean<br>
+Return true if both values are true;<br>
+Return false if one or both parameters are false.<br><br>
 2 - Triangle area
 Write a function named calcArea that receives a base value (called base) and a height value (called height) of a triangle and returns the calculation of its area.
 
